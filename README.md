@@ -4,7 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### ```shell npm i``` to install all packages required
+```shell
+npm i
+```
 ### `npm start` for run app
 ### Yeah! Happy Hack.
 
